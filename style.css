@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Mogra&display=swap');
+
+header{
+    background-image: url("files/app_icon.ico");
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 2em;
+    font-family: Caprasimo;
+    font-size: 150%;
+}
+
+h2{
+    padding: 2em;
+}
+
+body{
+    font-family: Caprasimo;
+}
+
+a{
+    padding: 2em;
+    font-size: 150%;
+}
+
+h1{
+    padding: 1em;
+}
